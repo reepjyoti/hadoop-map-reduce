@@ -1,4 +1,4 @@
-# CloudLabEurecom
+# Cloud computing and distributed systems
 URL: https://github.com/michiard/CLOUDS-LAB
 
 1. Exercise 1: WordCount
